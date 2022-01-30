@@ -107,6 +107,8 @@
  | ubuntu/install.sh | X11 | AMD64 | xubuntu-20.04.3-desktop-amd64 | 仅桌面可运行(可窗口化) |  
  
  ```
+ sudo apt-get install libpcre2-16-0 
+ sudo apt-get install libdouble-conversion3
  cd ubuntu-xplay/ubuntu/ ; sh -x install.sh
  ```
  
