@@ -37,8 +37,8 @@
 
 | 系统版本 | 安装程序 | 测试版本 | 测试状态 |
 | --- | --- | --- | --- | --- |
-| ubuntu | 20.04.3 | ubuntu/install.sh | master | 已测试 |
-| xubuntu | 20.04.3 | ubuntu/install.sh | master | 已测试 |
+| ubuntu 20.04.3 | ubuntu/install.sh | master | 已测试 |
+| xubuntu 20.04.3 | ubuntu/install.sh | master | 已测试 |
 
 ---
 ### 目录结构
